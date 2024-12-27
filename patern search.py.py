@@ -1,7 +1,7 @@
 import re
 text = """
-John Smith's email is john.smith@example.com.
-You can also reach him at john_smith123@gmail.com.
+John Smith's email is nawazshaik@gmail.com.
+You can also reach him at nawazshaik@gmail.com.
 His phone numbers are 123-456-7890 and (987) 654-3210.
 """
 email_pattern = r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
